@@ -67,7 +67,7 @@ You can find Maven project with the examples [here](./examples).
 This code snippet navigates to Playwright homepage in Chromium, Firefox and WebKit, and saves 3 screenshots. 
 
 ```java
-import com.microsoft.playwright.*;
+import com.microsoft.playwright.*; 
 
 import java.nio.file.Paths;
 import java.util.Arrays;
